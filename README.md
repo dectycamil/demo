@@ -2,4 +2,4 @@ demo
 ====
 my demonstration my GitHub pages feature 
 
-View live demonstration site at https://github.com/dectycamil/demo/
+View live demonstration site at http://dectycamil.github.io/demo/
